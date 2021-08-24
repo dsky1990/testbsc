@@ -14,106 +14,6 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped Ether",
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 5,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0xd0A1E359811322d97991E03f863a0C30C2cF029C",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
-    },
-    {
-      "name": "Maker",
-      "address": "0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85",
-      "symbol": "MKR",
-      "decimals": 18,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xF9bA5210F91D0474bd1e1DcDAeC4C58E359AaD85/logo.png"
-    },
-    {
-      "name": "Dai Stablecoin",
-      "address": "0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
-    },
-    {
-      "name": "Maker",
-      "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
-      "symbol": "MKR",
-      "decimals": 18,
-      "chainId": 42,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD/logo.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x88A1F698Ef36Bb6C128c2F600Fc9d610AB7de708",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x3A2ED283117A7f8b835f07A50Af24cBab4c007B7",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 4,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "name": "ETT Token",
-      "address": "0x071a50263f6BCE9Ce51B8b0aD75ae8244deA8102",
-      "symbol": "ETT",
-      "decimals": 18,
-      "chainId": 4
-    },
-    {
-      "name": "ATT Token",
-      "address": "0x8fDaeB331e1537056f5745830f32868eD42fDc62",
-      "symbol": "ATT",
-      "decimals": 18,
-      "chainId": 4
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x44aC129675f250CfA1b171E20dd4Ffd0Dbe17555",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 42
-    },
-    {
-      "name": "ATT Token",
-      "address": "0xdd251371CB1513074C36C205b9d2269C76cFE655",
-      "symbol": "ATT",
-      "decimals": 18,
-      "chainId": 42
-    },
-    {
       "name": "AAA",
       "address": "0x108a277F3CB612bB868Ae825Bd78FaD58d2FB8E9",
       "symbol": "AAA",
@@ -671,14 +571,6 @@
       "logoURI":  "https://mdex.co/token-icons/bsc/0x658a109c5900bc6d2357c87549b651670e5b0539.png"
     },
     {
-      "name": "TOKEN",
-      "address": "0x3b73c1b2ea59835cbfcadade5462b6ab630d9890",
-      "symbol": "TOKEN",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI":  "https://mdex.co/token-icons/bsc/0x3b73c1b2ea59835cbfcadade5462b6ab630d9890.png"
-    },
-    {
       "name": "BIRD",
       "address": "0x7f1296e5aa692a98d86eaae3ac1cd7723e74878d",
       "symbol": "BIRD",
@@ -1061,6 +953,382 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI":  "https://mdex.co/token-icons/bsc/0xf378b36a55a52fb9181dffc26882a4b08a044361.png"
+    },
+    {
+      "name": "MIX",
+      "address": "0x398f7827dccbefe6990478876bbf3612d93baf05",
+      "symbol": "MIX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x398f7827dccbefe6990478876bbf3612d93baf05.png"
+    },
+    {
+      "name": "xMARK",
+      "address": "0x26a5dfab467d4f58fb266648cae769503cec9580",
+      "symbol": "xMARK",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x26a5dfab467d4f58fb266648cae769503cec9580.png"
+    },
+    {
+      "name": "A11",
+      "address": "0x745f99f9988e118c8203dc3fd5fd94a7a6c93302",
+      "symbol": "A11",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x745f99f9988e118c8203dc3fd5fd94a7a6c93302.png"
+    },
+    {
+      "name": "CHA",
+      "address": "0xe6ef876a84c4c619c737f71d851c6cc40e257403",
+      "symbol": "CHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe6ef876a84c4c619c737f71d851c6cc40e257403.png"
+    },
+    {
+      "name": "YEFI",
+      "address": "0x193b8230f594f63da50876eaf362177d1dca4a45",
+      "symbol": "YEFI",
+      "decimals": 6,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x193b8230f594f63da50876eaf362177d1dca4a45.png"
+    },
+    {
+      "name": "DEP",
+      "address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+      "symbol": "DEP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcaf5191fc480f43e4df80106c7695eca56e48b18.png"
+    },
+    {
+      "name": "YFIC",
+      "address": "0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64",
+      "symbol": "YFIC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fc42d0f30ae678c8b4d3c04f77f176a36531b64.png"
+    },
+    {
+      "name": "CARROT",
+      "address": "0xa5043373edc09f3f7d87fe35ca933e0a7b59d005",
+      "symbol": "CARROT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa5043373edc09f3f7d87fe35ca933e0a7b59d005.png"
+    },
+    {
+      "name": "TURTLE",
+      "address": "0xd02fa440e100412294871d3433be019756cb8db5",
+      "symbol": "TURTLE",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd02fa440e100412294871d3433be019756cb8db5.png"
+    },
+    {
+      "name": "BCZZ",
+      "address": "0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134",
+      "symbol": "BCZZ",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x2fb9376cff6fb7f5fe99665ae1ec2fddd5099134.png"
+    },
+    {
+      "name": "bMYC",
+      "address": "0x6180d382913e0585062336e5fd5e85cec5ac6c78",
+      "symbol": "bMYC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x6180d382913e0585062336e5fd5e85cec5ac6c78.png"
+    },
+    {
+      "name": "DAWG",
+      "address": "0x221532ea2601a16e3abdc4efe4d5c325bbbba436",
+      "symbol": "DAWG",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x221532ea2601a16e3abdc4efe4d5c325bbbba436.png"
+    },
+    {
+      "name": "TUSD",
+      "address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x14016e85a25aeb13065688cafb43044c2ef86784.png"
+    },
+    {
+      "name": "ETHST",
+      "address": "0xeaa2badd888324100669481e46d2329796531ef1",
+      "symbol": "ETHST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xeaa2badd888324100669481e46d2329796531ef1.png"
+    },
+    {
+      "name": "ET",
+      "address": "0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79",
+      "symbol": "ET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18b2978d7e4eac4a00c66ab00d68ba7e77141a79.png"
+    },
+    {
+      "name": "Poke",
+      "address": "0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2",
+      "symbol": "Poke",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x8ab6f50cdae1880b7dc0cbe49ee2e3cfacf592e2.png"
+    },
+    {
+      "name": "GNT",
+      "address": "0xf750a26eb0acf95556e8529e72ed530f3b60f348",
+      "symbol": "GNT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf750a26eb0acf95556e8529e72ed530f3b60f348.png"
+    },
+    {
+      "name": "SLTH",
+      "address": "0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6",
+      "symbol": "SLTH",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5b9dbebbad94b8c6467af9e8a851bb120f9601c6.png"
+    },
+    {
+      "name": "HORA",
+      "address": "0xa6fd7b5c9eee30309b00b65436a284e2053251e5",
+      "symbol": "HORA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6fd7b5c9eee30309b00b65436a284e2053251e5.png"
+    },
+    {
+      "name": "XPO",
+      "address": "0xebb59cebfb63f218db6b5094dc14abf34d56d35d",
+      "symbol": "XPO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xebb59cebfb63f218db6b5094dc14abf34d56d35d.png"
+    },
+    {
+      "name": "TREES",
+      "address": "0xd3b77ac07c963b8cead47000a5208434d9a8734d",
+      "symbol": "TREES",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd3b77ac07c963b8cead47000a5208434d9a8734d.png"
+    },
+    {
+      "name": "SAFUYIELD",
+      "address": "0xc74cd0042c837ce59210857504ebb0859e06aa22",
+      "symbol": "SAFUYIELD",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc74cd0042c837ce59210857504ebb0859e06aa22.png"
+    },
+    {
+      "name": "LKT",
+      "address": "0xde8fa069707b6322ad45d001425b617f4f1930bd",
+      "symbol": "LKT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xde8fa069707b6322ad45d001425b617f4f1930bd.png"
+    },
+    {
+      "name": "HAM",
+      "address": "0xb7b36ca86685af52186f1f9394e91d115a9da654",
+      "symbol": "HAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xb7b36ca86685af52186f1f9394e91d115a9da654.png"
+    },
+    {
+      "name": "TRE",
+      "address": "0xa6cb08514bff2ac5f7583959818e4842ef91e74f",
+      "symbol": "TRE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa6cb08514bff2ac5f7583959818e4842ef91e74f.png"
+    },
+    {
+      "name": "ROKET",
+      "address": "0x5a8316f515cbbcd703b71a5d58f92b4636087dc3",
+      "symbol": "ROKET",
+      "decimals": 12,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x5a8316f515cbbcd703b71a5d58f92b4636087dc3.png"
+    },
+    {
+      "name": "SAME",
+      "address": "0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825",
+      "symbol": "SAME",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xd53f8bd5e8e6114a29d12dfe264f2a565c18b825.png"
+    },
+    {
+      "name": "BP",
+      "address": "0xacb8f52dc63bb752a51186d1c55868adbffee9c1",
+      "symbol": "BP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xacb8f52dc63bb752a51186d1c55868adbffee9c1.png"
+    },
+    {
+      "name": "WNTR",
+      "address": "0x93f63d9455685621abd73e63cc04f7e454270a66",
+      "symbol": "WNTR",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x93f63d9455685621abd73e63cc04f7e454270a66.png"
+    },
+    {
+      "name": "BET",
+      "address": "0x028a52032a7075a42585c037f069c62b49ebaa3d",
+      "symbol": "BET",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x028a52032a7075a42585c037f069c62b49ebaa3d.png"
+    },
+    {
+      "name": "ALPHA",
+      "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+      "symbol": "ALPHA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xa1faa113cbe53436df28ff0aee54275c13b40975.png"
+    },
+    {
+      "name": "VAI",
+      "address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
+      "symbol": "VAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x4bd17003473389a42daf6a0a729f6fdb328bbbd7.png"
+    },
+    {
+      "name": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "symbol": "TKO",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x9f589e3eabe42ebc94a44727b3f3531c0c877809.png"
+    },
+    {
+      "name": "BABYCAKE",
+      "address": "0xdb8d30b74bf098af214e862c90e647bbb1fcc58c",
+      "symbol": "BABYCAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xdb8d30b74bf098af214e862c90e647bbb1fcc58c.png"
+    },
+    {
+      "name": "BabyDoge",
+      "address": "0xc748673057861a797275cd8a068abb95a902e8de",
+      "symbol": "BabyDoge",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc748673057861a797275cd8a068abb95a902e8de.png"
+    },
+    {
+      "name": "FARA",
+      "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+      "symbol": "FARA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1.png"
+    },
+    {
+      "name": "MIST",
+      "address": "0x68e374f856bf25468d365e539b700b648bf94b67",
+      "symbol": "MIST",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x68e374f856bf25468d365e539b700b648bf94b67.png"
+    },
+    {
+      "name": "OKS",
+      "address": "0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a",
+      "symbol": "OKS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x18acf236eb40c0d4824fb8f2582ebbecd325ef6a.png"
+    },
+    {
+      "name": "EXZO",
+      "address": "0xf8fc63200e181439823251020d691312fdcf5090",
+      "symbol": "EXZO",
+      "decimals": 9,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xf8fc63200e181439823251020d691312fdcf5090.png"
+    },
+    {
+      "name": "BaNkr",
+      "address": "0x240eb70aafe740f753066a413ddad73b7c72b4e2",
+      "symbol": "BaNkr",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x240eb70aafe740f753066a413ddad73b7c72b4e2.png"
+    },
+    {
+      "name": "CP",
+      "address": "0x82c19905b036bf4e329740989dcf6ae441ae26c1",
+      "symbol": "CP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x82c19905b036bf4e329740989dcf6ae441ae26c1.png"
+    },
+    {
+      "name": "SKILL",
+      "address": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab",
+      "symbol": "SKILL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab.png"
+    },
+    {
+      "name": "BMON",
+      "address": "0x08ba0619b1e7a582e0bce5bbe9843322c954c340",
+      "symbol": "BMON",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x08ba0619b1e7a582e0bce5bbe9843322c954c340.png"
+    },
+    {
+      "name": "ITAM",
+      "address": "0x04c747b40be4d535fc83d09939fb0f626f32800b",
+      "symbol": "ITAM",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0x04c747b40be4d535fc83d09939fb0f626f32800b.png"
+    },
+    {
+      "name": "BAKE",
+      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
+      "symbol": "BAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+    {
+      "name": "LORY",
+      "address": "0xcd5d75dbe75449a9021b6c570a41959eb571c751",
+      "symbol": "LORY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xcd5d75dbe75449a9021b6c570a41959eb571c751.png"
+    },
+    {
+      "name": "BUNNY",
+      "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+      "symbol": "BUNNY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI":  "https://mdex.co/token-icons/bsc/0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51.png"
     }
   ]
 }
